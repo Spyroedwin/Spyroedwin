@@ -62,9 +62,9 @@
 
 ## 🌐 Connect
 <div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-edwin--johnson-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[https://www.linkedin.com/in/edwin-johnson-a786a6294](https://www.linkedin.com/in/edwin-johnson-a786a6294)
-![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)[https://github.com/Spyroedwin](https://github.com/Spyroedwin)
-![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)[mailto:edwinjohnbang2000@gmail.com](mailto:edwinjohnbang2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-edwin--johnson-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-johnson-a786a6294)
+[![GitHub](https://img.shields.io/badge/GitHub-Spyroedwin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spyroedwin)
+[![Email](https://img.shields.io/badge/Email-edwinjohnbang2000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edwinjohnbang2000@gmail.com)
 
 🌐 💼 👨‍💻 📧
 </div>
