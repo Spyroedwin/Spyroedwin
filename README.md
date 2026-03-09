@@ -43,7 +43,6 @@ Currently exploring **machine learning, NLP pipelines, and AI security systems.*
 | ---------------------------------- | --------------------------------------------------------- |
 | 🔐 **LLM LeakGuard Enterprise**    | AI system detecting sensitive data leaks in LLM responses |
 | 🛡 **DLP System**                  | Data Leak Prevention using pattern detection              |
-| 🔑 **Password Strength Estimator** | Simulates brute-force crack time                          |
 
 ---
 
