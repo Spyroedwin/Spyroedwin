@@ -101,7 +101,7 @@ Brute-force crack time simulator<br>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 **CONTRIBUTION SNAKE** (Auto-generates)
 <div align="center">
 <img src="https://raw.githubusercontent.com/EdwinJohnson/EdwinJohnson/output/github-snake-dark.svg" alt="Snake animation"/>
 </div>
@@ -113,7 +113,6 @@ Brute-force crack time simulator<br>
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdwinJohnson)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edwinjohnson)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-7c3aed?style=for-the-badge)](https://your-portfolio-link.com)
 </div>
 
 <div align="center">
