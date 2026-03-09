@@ -10,20 +10,20 @@
 
 # 👨‍💻 About Me
 
-**Edwin Johnson**  
-Cybersecurity & AI Enthusiast | Backend Developer | Bengaluru 🇮🇳  
+**Edwin Johnson**
+Cybersecurity & AI Enthusiast | Backend Developer | Bengaluru 🇮🇳
 
-I enjoy building **secure backend systems, AI tools, and cybersecurity projects**.  
+I enjoy building **secure backend systems, AI tools, and cybersecurity projects.**
 Currently exploring **machine learning, NLP pipelines, and AI security systems.**
 
 ---
 
 # 🧠 Current Focus
 
-🔐 AI-based cybersecurity tools  
-🤖 Machine learning and NLP pipelines  
-🛠 Secure backend APIs  
-📊 Data analysis and visualization  
+🔐 AI-based cybersecurity tools
+🤖 Machine learning and NLP pipelines
+🛠 Secure backend APIs
+📊 Data analysis and visualization
 
 ---
 
@@ -39,11 +39,11 @@ Currently exploring **machine learning, NLP pipelines, and AI security systems.*
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|------|-------------|
-| 🔐 **LLM LeakGuard Enterprise** | AI system detecting sensitive data leaks in LLM responses |
-| 🛡 **DLP System** | Data Leak Prevention using pattern detection |
-| 🔑 **Password Strength Estimator** | Simulates brute-force crack time |
+| Project                            | Description                                               |
+| ---------------------------------- | --------------------------------------------------------- |
+| 🔐 **LLM LeakGuard Enterprise**    | AI system detecting sensitive data leaks in LLM responses |
+| 🛡 **DLP System**                  | Data Leak Prevention using pattern detection              |
+| 🔑 **Password Strength Estimator** | Simulates brute-force crack time                          |
 
 ---
 
@@ -61,14 +61,16 @@ Currently exploring **machine learning, NLP pipelines, and AI security systems.*
 
 # 📈 Activity Graph
 
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Spyroedwin&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Spyroedwin/Spyroedwin/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Spyroedwin/Spyroedwin/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
