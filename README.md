@@ -61,11 +61,9 @@
 ---
 
 ## 🌐 Connect
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-edwin-johnson-a786a6294-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edwin-johnson-a786a6294)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdwinJohnson)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-</div>
+![LinkedIn](https://img.shields.io/badge/LinkedIn-edwin--johnson-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white) ![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+🌐 💼 👨‍💻 📧
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=EdwinJohnson&color=7c3aed&style=flat-square"/>
