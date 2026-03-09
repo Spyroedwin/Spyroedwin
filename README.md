@@ -67,11 +67,9 @@ Currently exploring **machine learning, NLP pipelines, and AI security systems.*
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Spyroedwin/Spyroedwin/output/github-snake-dark.svg"/>
-
-</div>
+<p align="center">
+<img src="https://github.com/Spyroedwin/Spyroedwin/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
