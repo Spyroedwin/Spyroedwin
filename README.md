@@ -1,56 +1,37 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,35:7c3aed,70:a855f7,100:c084fc&text=Spyroedwin&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity+%26+AI+Enthusiast•Backend+Enthusiast•Bengaluru&descAlignY=58&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,40:7c3aed,70:a855f7,100:c084fc&text=SpyroEdwin&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=C084FC&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+AI+Enthusiast;Learning+ML+Models+NLP+Data+Analysis;Python+FastAPI+Docker+React;Building+Secure+AI+Systems"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20AI-7c3aed?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Core-ML%20NLP%20Data%20Analysis-a855f7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tech-Python%20FastAPI%20Docker-c084fc?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Cybersecurity+%26+AI+Enthusiast;Building+Secure+AI+Systems;Learning+Machine+Learning+%26+NLP;Python+FastAPI+Docker+React"/>
 
 </div>
-
----
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Spyroedwin&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Spyroedwin&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
 
 ---
 
 # 👨‍💻 About Me
 
 **Edwin Johnson**  
-Cybersecurity & AI Enthusiast | Backend Enthusiast | Bengaluru  
+Cybersecurity & AI Enthusiast | Backend Developer | Bengaluru 🇮🇳  
 
-💡 I enjoy building secure systems, experimenting with AI models, and developing backend applications.
-
-### 🔍 Interests
-- 🔒 Cybersecurity and threat detection
-- 🤖 Machine Learning and NLP
-- 🛠 Backend development and APIs
-- 📊 Data analysis and visualization
+I enjoy building **secure backend systems, AI tools, and cybersecurity projects**.  
+Currently exploring **machine learning, NLP pipelines, and AI security systems.**
 
 ---
 
-# ⚔️ Current Focus
+# 🧠 Current Focus
 
-| Building | Learning | Tech Stack | Goals |
-|----------|----------|------------|-------|
-| 🔐 AI cybersecurity tools | 🧠 Penetration testing | 🐍 Python, FastAPI, Docker | 🚀 Deploy AI systems |
-| 📈 ML / NLP pipelines | 🎯 ML model deployment | ⚛️ React, Node.js | 🌐 Open-source security tools |
-| 🛡 Secure backend APIs | 📊 Data visualization | 🐧 Kali Linux, PowerShell | 🔒 Advanced cybersecurity |
+🔐 AI-based cybersecurity tools  
+🤖 Machine learning and NLP pipelines  
+🛠 Secure backend APIs  
+📊 Data analysis and visualization  
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,scikit-learn,tensorflow,pytorch,react,fastapi,docker,kali,linux,vscode,git,colab,postgres,mongodb,nodejs,typescript&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,docker,linux,kali,tensorflow,pytorch,scikit-learn,postgres,mongodb,git,vscode&theme=dark"/>
 
 </div>
 
@@ -58,11 +39,29 @@ Cybersecurity & AI Enthusiast | Backend Enthusiast | Bengaluru
 
 # 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔐 **LLM LeakGuard Enterprise** | AI security system detecting LLM data leaks | FastAPI • React • ML |
-| 🛡 **DLP System** | Data Leak Prevention using pattern detection | Python • Machine Learning |
-| 🔑 **Password Strength Estimator** | Simulates brute-force crack time | JavaScript • Security Math |
+| Project | Description |
+|------|-------------|
+| 🔐 **LLM LeakGuard Enterprise** | AI system detecting sensitive data leaks in LLM responses |
+| 🛡 **DLP System** | Data Leak Prevention using pattern detection |
+| 🔑 **Password Strength Estimator** | Simulates brute-force crack time |
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Spyroedwin&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=Spyroedwin&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spyroedwin&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -70,7 +69,7 @@ Cybersecurity & AI Enthusiast | Backend Enthusiast | Bengaluru
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Spyroedwin/Spyroedwin/output/github-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Spyroedwin/Spyroedwin/output/github-snake-dark.svg"/>
 
 </div>
 
@@ -80,12 +79,12 @@ Cybersecurity & AI Enthusiast | Backend Enthusiast | Bengaluru
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/edwin-johnson-a786a6294">
-<img src="https://img.shields.io/badge/LinkedIn-edwin--johnson-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://github.com/Spyroedwin">
 <img src="https://img.shields.io/badge/GitHub-Spyroedwin-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/edwin-johnson-a786a6294">
+<img src="https://img.shields.io/badge/LinkedIn-Edwin%20Johnson-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:edwinjohnbang2000@gmail.com">
@@ -106,6 +105,6 @@ Cybersecurity & AI Enthusiast | Backend Enthusiast | Bengaluru
 
 <div align="center">
 
-*🔒 Secure AI • 📊 Data Insights • 🚀 Innovative Code*
+🔒 Secure AI • 📊 Data Insights • 🚀 Innovative Code
 
 </div>
