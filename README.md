@@ -11,7 +11,7 @@
 # 👨‍💻 About Me
 
 **Edwin Johnson**
-Cybersecurity & AI Enthusiast | Backend Developer | Bengaluru 🇮🇳
+ML & AI Enthusiast | Backend Developer | Bengaluru 🇮🇳
 
 I enjoy building **secure backend systems, AI tools, and cybersecurity projects.**
 Currently exploring **machine learning, NLP pipelines, and AI security systems.**
@@ -20,7 +20,7 @@ Currently exploring **machine learning, NLP pipelines, and AI security systems.*
 
 # 🧠 Current Focus
 
-🔐 AI-based cybersecurity tools
+🔐 AI-based network Security tools
 🤖 Machine learning and NLP pipelines
 🛠 Secure backend APIs
 📊 Data analysis and visualization
@@ -42,7 +42,7 @@ Currently exploring **machine learning, NLP pipelines, and AI security systems.*
 | Project                            | Description                                               |
 | ---------------------------------- | --------------------------------------------------------- |
 | 🔐 **LLM LeakGuard Enterprise**    | AI system detecting sensitive data leaks in LLM responses |
-| 🛡 **DLP System**                  | Data Leak Prevention using pattern detection              |
+| 🛡 **Aegis AI**                     | fully hand made AI cyber defence with autonomous response |
 
 ---
 
