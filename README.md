@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,40:7c3aed,70:a855f7,100:c084fc&text=SpyroEdwin&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20AI%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f172a,40:7c3aed,70:a855f7,100:c084fc&text=SpyroEdwin&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=NetworkSecurity%20%7C%20AI&ml%20Enthusiast%20%7C%20Backend%20Developer&descAlignY=60&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Cybersecurity+%26+AI+Enthusiast;Building+Secure+AI+Systems;Learning+Machine+Learning+%26+NLP;Python+FastAPI+Docker+React"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=NetworkSecurity+%26+AI&ml+Enthusiast;Building+Secure+AI+Systems;Learning+Machine+Learning+%26+NLP;Python+FastAPI+Docker+React"/>
 
 </div>
 
