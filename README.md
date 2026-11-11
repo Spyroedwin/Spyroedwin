@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:17153B,50:433D8B,100:7C3AED&height=220&section=header&text=SpyroEdwin&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Artificial%20Intelligence%20%7C%20Backend%20Engineering&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="SpyroEdwin banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:0B2340,100:245B91&height=220&section=header&text=SpyroEdwin&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Artificial%20Intelligence%20%7C%20Backend%20Engineering&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="SpyroEdwin banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=750&lines=Building+Intelligent+and+Secure+Systems;Exploring+AI+for+Cybersecurity;Python+%7C+Machine+Learning+%7C+NLP;Backend+Engineering+%7C+API+Development;Turning+Ideas+Into+Working+Projects" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=8DBDFF&center=true&vCenter=true&width=750&lines=Building+Intelligent+and+Secure+Systems;Exploring+AI+for+Cybersecurity;Python+%7C+Machine+Learning+%7C+NLP;Backend+Engineering+%7C+API+Development;Turning+Ideas+Into+Working+Projects" alt="Typing SVG"/>
 
 </div>
 
@@ -32,7 +32,7 @@ I am particularly interested in building systems that can **collect data, unders
 <div align="center">
 
 <a href="https://github.com/Spyroedwin/Aegis-AI">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:17153B,50:433D8B,100:7C3AED&text=AEGIS&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" alt="AEGIS project"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=100&color=0:071426,50:0B2340,100:245B91&text=AEGIS&fontSize=42&fontColor=ffffff&fontAlignY=50" width="100%" alt="AEGIS project"/>
 </a>
 
 ### Autonomous AI Cyber Defense Platform
@@ -149,11 +149,11 @@ An exploration of combining natural language processing and financial data for s
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Spyroedwin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Spyroedwin&show_icons=true&hide_border=true&rank_icon=github&bg_color=071426&title_color=8DBDFF&icon_color=4D9FFF&text_color=DCEBFF&border_color=123B65" alt="GitHub statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyroedwin&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyroedwin&layout=compact&hide_border=true&bg_color=071426&title_color=8DBDFF&text_color=DCEBFF&border_color=123B65" alt="Most used languages"/>
 
-<img src="https://streak-stats.demolab.com?user=Spyroedwin&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=Spyroedwin&hide_border=true&background=071426&ring=4D9FFF&fire=8DBDFF&currStreakLabel=8DBDFF&sideLabels=DCEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=91A9C5" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -163,7 +163,7 @@ An exploration of combining natural language processing and financial data for s
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spyroedwin&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub contribution activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spyroedwin&bg_color=071426&color=DCEBFF&line=4D9FFF&point=8DBDFF&area=true&area_color=123B65&hide_border=true" width="100%" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -184,15 +184,15 @@ An exploration of combining natural language processing and financial data for s
 <div align="center">
 
 <a href="https://www.linkedin.com/in/edwin-johnson-a786a6294">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-245B91?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:edwinjohnbang2000@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-123B65?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/Spyroedwin">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-071426?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
@@ -201,7 +201,7 @@ An exploration of combining natural language processing and financial data for s
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:433D8B,100:17153B&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:245B91,50:0B2340,100:071426&height=110&section=footer" width="100%" alt="Footer"/>
 
 **Building Systems. Exploring Intelligence. Engineering Security.**
 
