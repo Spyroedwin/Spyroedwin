@@ -10,7 +10,7 @@
 
 ---
 
-## 👨‍💻 Who I Am
+##  Who I Am
 
 I'm a **final-year Computer Science and Engineering student** and a **Python & Machine Learning Intern**, interested in engineering systems that combine software development, artificial intelligence and cybersecurity.
 
@@ -27,7 +27,7 @@ I am particularly interested in building systems that can **collect data, unders
 
 ---
 
-## 🔐 My Engineering Approach — AEGIS
+## My Engineering Approach — AEGIS
 
 <div align="center">
 
@@ -72,13 +72,13 @@ AEGIS is an actively evolving project. My focus is on making its components oper
 
 ---
 
-## 🧠 What I Build
+## What I Build
 
 I am interested in developing systems across several engineering domains.
 
 <div align="center">
 
-| 🔐 Cybersecurity Systems | 🤖 AI-Powered Applications |
+|  Cybersecurity Systems | AI-Powered Applications |
 |:---:|:---:|
 | Intrusion detection platforms | ML-based prediction systems |
 | Security monitoring tools | NLP applications |
@@ -86,7 +86,7 @@ I am interested in developing systems across several engineering domains.
 | Automated defensive workflows | Intelligent data analysis |
 | Secure API systems | Anomaly detection |
 
-| ⚙️ Backend Applications | 📊 Data-Driven Systems |
+|  Backend Applications |  Data-Driven Systems |
 |:---:|:---:|
 | REST API architectures | Data validation pipelines |
 | Authentication systems | Data quality monitoring |
@@ -102,22 +102,25 @@ My goal is to build applications where the backend, data layer, AI components an
 
 ## 🚀 Featured Projects
 
-### 1. 🔐 AEGIS — AI Cyber Defense Platform
-[Repository](https://github.com/Spyroedwin/Aegis-AI)
+### 1. AEGIS — AI Cyber Defense Platform
+
+[View Repository](https://github.com/Spyroedwin/Aegis-AI)
 
 An evolving cybersecurity platform exploring ML-based intrusion detection, network monitoring, threat intelligence, signature generation and automated defensive response.
 
 **Focus:** Cybersecurity · Python · FastAPI · Machine Learning · Suricata
 
-### 2. 🛡️ Secure API Gateway for Northbound Interfaces
-[Repository](https://github.com/Spyroedwin/Secure-API-Gateway-for-Northbound-Interfaces)
+### 2. Secure API Gateway for Northbound Interfaces
+
+[View Repository](https://github.com/Spyroedwin/Secure-API-Gateway-for-Northbound-Interfaces)
 
 A project focused on secure API communication, gateway architecture and protecting application interfaces.
 
 **Focus:** Backend Engineering · API Security · Python
 
-### 3. 📈 NLP Stock Prediction
-[Repository](https://github.com/Spyroedwin/NLP_STOCK_PRED)
+### 3.  NLP Stock Prediction
+
+[View Repository](https://github.com/Spyroedwin/NLP_STOCK_PRED)
 
 An exploration of combining natural language processing and financial data for stock-related analysis and prediction.
 
@@ -125,61 +128,49 @@ An exploration of combining natural language processing and financial data for s
 
 ---
 
-## 🛠️ Technologies I Work With
+##  Technologies I Work With
 
 <div align="center">
 
 ### Programming Languages
+
 <img src="https://skillicons.dev/icons?i=python,java,js" alt="Programming languages"/>
 
 ### Machine Learning & AI
+
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" alt="Machine learning technologies"/>
 
 ### Backend & Databases
+
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,postgres,mongodb" alt="Backend and databases"/>
 
 ### Development & Security Tools
+
 <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github,vscode" alt="Development and security tools"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Activity
+
+You can explore my repositories, commit history, and contribution activity directly through GitHub.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Spyroedwin&show_icons=true&hide_border=true&rank_icon=github&bg_color=071426&title_color=8DBDFF&icon_color=4D9FFF&text_color=DCEBFF&border_color=123B65" alt="GitHub statistics"/>
+<a href="https://github.com/Spyroedwin?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-My%20Repositories-123B65?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spyroedwin&layout=compact&hide_border=true&bg_color=071426&title_color=8DBDFF&text_color=DCEBFF&border_color=123B65" alt="Most used languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Spyroedwin&hide_border=true&background=071426&ring=4D9FFF&fire=8DBDFF&currStreakLabel=8DBDFF&sideLabels=DCEBFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=91A9C5" alt="GitHub contribution streak"/>
+<a href="https://github.com/Spyroedwin?tab=overview">
+<img src="https://img.shields.io/badge/View-Contributions-245B91?style=for-the-badge&logo=github&logoColor=white" alt="View contributions"/>
+</a>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Spyroedwin&bg_color=071426&color=DCEBFF&line=4D9FFF&point=8DBDFF&area=true&area_color=123B65&hide_border=true" width="100%" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Spyroedwin/Spyroedwin/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
+ Connect With Me
 
 <div align="center">
 
